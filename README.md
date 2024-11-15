@@ -44,7 +44,7 @@ Choose from two available installation options:
 1. Download the latest **installer.exe** file from the [Releases](https://github.com/luna-mae/fishtank.live-viewer/releases/tag/release) section.
 2. Double-click the `.exe` file to start the setup.
 3. Follow the on-screen instructions to complete the installation.
-4. Once installed, you can launch **Fishtank.live Viewer** from the Start menu or desktop shortcut (if selected during installation).
+4. Once installed, you can launch **Fishtank.live** from the Start menu or desktop shortcut (if selected during installation).
 
 ## Usage
 
