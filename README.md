@@ -1,4 +1,4 @@
-# Fishtank.live Viewer
+# Fishtank.live Viewer (EARLY TESTING)
 <img src="Resources/ftliveviewer.png" alt="Screenshot of Fishtank.live Viewer" width="600">
 
 **Fishtank.live Viewer** is a lightweight application designed for a better experience on [fishtank.live](https://fishtank.live). Available in both a [portable](https://github.com/luna-mae/fishtank.live-viewer/releases/tag/release) and an [installer](https://github.com/luna-mae/fishtank.live-viewer/releases/tag/release) version, allowing users to choose their preferred installation method. Open source. Feel free to modify.
